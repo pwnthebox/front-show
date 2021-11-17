@@ -1,0 +1,104 @@
+{
+    "banner_p_1": "PwnTheBox 网络安全竞赛平台拥有巨大的夺旗赛题库，将你的网络安全技能提升到一个新的水平！无论是刚刚开始网络安全之旅，还是只是在寻找一些新的挑战，PwnTheBox 都是你的好伙伴。",
+    "banner_p_2": "交流 QQ 群：7072126",
+    "banner_title_2": "TO REACH THE UNREACHABLE STAR",
+    "notus_title_1": "丰富的挑战",
+    "notus_p_1": "超过800个，不断更新，不同难度、攻击路径和操作系统的挑战。将它们全部完成并提高你的攻防技能！ 该项目的核心在于攻防挑战。我们有多种挑战模式，每种挑战都展示了不同类型的技能。让用户可以在合法、现实的环境中测试他们的技能。",
+    "notus_title_2": "持续更新",
+    "notus_p_2": "从简单到极难，我们的挑战涵盖所有技能水平。每周都会添加新内容，涵盖更新的漏洞利用和漏洞。",
+    "notus_title_3": "容器隔离",
+    "notus_p_3": "利用容器技术有效的隔离靶机，避免受到其他因素的干扰无法完成挑战。",
+    "notus_title_4": "真实模拟",
+    "notus_p_4": "模拟真实世界基础设施和利用场景的靶场，支持多个主机的复杂环境和各种攻击路径。",
+    "notus_title_5": "对抗模式",
+    "notus_p_5": "实时多人对抗游戏！邀请好友，选择任意不同的游戏模式，组队，加入战场！",
+    "notus_left_1": "Pwn",
+    "notus_left_2": "Reverse",
+    "notus_left_3": "Web",
+    "notus_left_4": "Real",
+    "notus_left_5": "Crypto",
+    "notus_left_6": "Misc",
+    "notus_right_title": "Get Involved!",
+    "notus_right_p_1": "PwnTheBox 核心在于攻防挑战。我们有多种挑战模式，每种挑战都展示了不同类型的技能。让用户可以在可控、现实的环境中测试他们的技能。",
+    "notus_right_p_2": "与许多竞赛平台不同，PwnTheBox 是一个社区，所有用户都可以在其中做出贡献并参与站点的开发。我们是一个鼓励积极参与的开放社区，我们已经建立了许多人们可以参与的方式。",
+    "notus_right_tag": [
+        "Blockchain", "Forensics", "OSINT", "Stego", "N1Book", "SQLI-LAB", "Hardware"
+    ],
+    "sec_2_title": "大佬评价",
+    "sec_2_p_1": "“PwnTheBox 宇宙更牛逼，靶机启动迅速，提示功能帮助我更快的学习。”",
+    "sec_2_p_1_a": "我是路人甲",
+    "sec_2_p_2": "“PwnTheBox 宇宙更牛逼，靶机启动迅速，提示功能帮助我更快的学习。”",
+    "sec_2_p_2_a": "我是路人甲",
+    "sec_2_p_3": "“PwnTheBox 宇宙更牛逼，靶机启动迅速，提示功能帮助我更快的学习。”",
+    "sec_2_p_3_a": "我是路人甲",
+    "sec_3_title": "社区贡献者",
+    "sec_3_title_2": "感谢他们",
+    "sec_3_list": [
+        {
+            "avatar": "https://github.com/0xOO1.png?size=64",
+            "name": "0xOO1",
+            "link": "https://github.com/0xOO1"
+        },
+        {
+            "avatar": "https://github.com/laziok.png?size=64",
+            "name": "laziok",
+            "link": "https://github.com/laziok"
+        },
+        {
+            "avatar": "https://github.com/blackorbird.png?size=64",
+            "name": "blackorbird",
+            "link": "https://github.com/blackorbird"
+        },
+        {
+            "avatar": "https://github.com/xiaozimo20.png?size=64",
+            "name": "xiaozimo20",
+            "link": "https://github.com/xiaozimo20"
+        },
+        {
+            "avatar": "https://github.com/TvTSaltedfish.png?size=64",
+            "name": "TvTSaltedfish",
+            "link": "https://github.com/TvTSaltedfish"
+        },
+        {
+            "avatar": "https://github.com/GGZDDR.png?size=64",
+            "name": "GGZDDR",
+            "link": "https://github.com/GGZDDR"
+        },
+        {
+            "avatar": "https://github.com/Jindom.png?size=64",
+            "name": "Jindom",
+            "link": "https://github.com/Jindom"
+        },
+        {
+            "avatar": "/static/image/father.jpg",
+            "name": "教父"
+        },
+        {
+            "avatar": "/static/image/lsh4ck.jpg",
+            "name": "lsh4ck"
+        },
+        {
+            "avatar": "/static/image/Cimoom.jpg",
+            "name": "Cimoom_曲云杰"
+        },
+        {
+            "avatar": "/static/image/Laffray.jpg",
+            "name": "Laffray"
+        },
+        {
+            "avatar": "/static/image/zoom.jpg",
+            "name": "元培ZOOM战队"
+        },
+        {
+            "avatar": "/static/image/61d.png",
+            "name": "f61d"
+        }
+    ],
+    "sec_4_title": "常见问题",
+    "sec_4_list": [
+        {"title": "排名是否赋予任何人特权？", "content": "最高分页面上的更高排名并不赋予任何人特权。我们在这里都是朋友，都在同一个团队中。 让我们不要浪费精力与自己作斗争，而是为了共同的目标而共同努力。然而，我们确实鼓励用户纯粹为了提高他们的技能而进行竞争（在合理范围内）。 徽章是一种荣誉，而不是一种权利。如果你用这个标志来展示你的优越感，它就会被剥夺。"},
+        {"title": "是否可以探索本网站安全隐患？", "content": "允许用户探索 PwnTheBox 以搜索安全漏洞、BUG 等，前提是他们不得出于非法目的。 如果你确实找到了安全问题，我们希望你提交一份错误报告。  用户不因发现和探索安全漏洞而受到处罚，但对攻击本站构成法律风险的除外。"},
+        {"title": "账号被封禁？", "content": "被禁止/暂停的用户将一直如此，直到工作人员决定取消/取消暂停，这可以从短到一天到永久禁止。"},
+        {"title": "意见和建议", "content": "这也是你的网站。你对它的运作方式、内容、政策、使命、文章等有发言权。如果你有任何建议、批评或你认为我们应该实施的好主意，请让我们知道！  尽管所有用户都是平等的，但核心成员有一项特殊的责任来负责本网站——也就是说，让你们所有人都变得更好。为了让核心成员做好他们的工作，他们必须被倾听。 但如果核心成员告诉你应该做或不应该做某事，你必须听取他们的意见。  一般来说，用户可以自由支配网站。他们决定网站的运行方式、网站上的内容等。 我们所关心的是确保网站保持正常运行，并可供所有希望从这种体验中学习和成长的人使用。我们只想看到它尽可能顺利运行。"}
+    ]
+}
