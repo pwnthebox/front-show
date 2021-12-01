@@ -87,11 +87,15 @@
         },
         {
             "avatar": "/static/image/zoom.jpg",
-            "name": "元培ZOOM战队"
+            "name": "元培 ZOOM 战队"
         },
         {
             "avatar": "/static/image/61d.png",
             "name": "f61d"
+        },
+        {
+            "avatar": "https://raw.githubusercontent.com/pwnthebox/front-show/master/src/assets/edi.png",
+            "name": "EDI 安全"
         }
     ],
     "sec_4_title": "常见问题",
