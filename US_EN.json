@@ -1,0 +1,167 @@
+{
+    "banner_p_1": "PwnTheBox - The Cyber Security Platform & Community which has a huge number of challenges will raise your cyber security skills to the next level! whether you are just starting your journey of cyber security or just looking for some new challenges, Pwnthebox is your good partner and choice.",
+    "banner_p_2": "QQ Group：7072126",
+    "banner_title_2": "TO REACH THE UNREACHABLE STAR",
+    "notus_title_1": "Various Challenges",
+    "notus_p_1": "More than 1200 challenges which is constantly updated and include different difficulties, attack paths and operating systems. Complete them all and improve your attack and defense skills! The core of the project is the challenge of attack and defense. We have a variety of challenge models, and each challenge shows different types of skills. Let you test your skills in a legal and realistic environment.",
+    "notus_title_2": "Continuous Update",
+    "notus_p_2": "From easy to extremely difficult, our challenges cover all skill levels. New challenges will be added every week, covering updated exploits and vulnerabilities.",
+    "notus_title_3": "Container isolation",
+    "notus_p_3": "The isolation technology of the container effectively avoid the interference of other factors",
+    "notus_title_4": "Real-world scenarios",
+    "notus_p_4": "We simulate real-world scenarios, support complex environment and various attack paths of multiple hosts.",
+    "notus_title_5": "Battle Model",
+    "notus_p_5": "Real time multiplayer game! Invite friends, choose any different game mode, form a team and join the battlefield!",
+    "notus_left_1": "Pwn",
+    "notus_left_2": "Reverse",
+    "notus_left_3": "Web",
+    "notus_left_4": "Real",
+    "notus_left_5": "Crypto",
+    "notus_left_6": "Misc",
+    "notus_right_title": "Get Involved!",
+    "notus_right_p_1": "The core of PwnTheBox is the challenge of attack and defense. We have a variety of challenge models, and each challenge shows different types of skills. Let users test their skills in a controlled and realistic environment.",
+    "notus_right_p_2": "Unlike many platforms, PwnTheBox is a community which all users can contribute and participate in the development of the site. We are an open community that encourages active participation, and we have established many ways in which people can participate.",
+    "notus_right_tag": [
+        "Blockchain", "Forensics", "OSINT", "Stego", "N1Book", "SQLI-LAB", "Hardware"
+    ],
+    "sec_2_title": "Pioneer's Evaluation",
+    "sec_2_p_1": "“PwnTheBox 宇宙更牛逼，靶机启动迅速，提示功能帮助我更快的学习。”",
+    "sec_2_p_1_a": "我是路人甲",
+    "sec_2_p_2": "“PwnTheBox 宇宙更牛逼，靶机启动迅速，提示功能帮助我更快的学习。”",
+    "sec_2_p_2_a": "我是路人甲",
+    "sec_2_p_3": "“PwnTheBox 宇宙更牛逼，靶机启动迅速，提示功能帮助我更快的学习。”",
+    "sec_2_p_3_a": "我是路人甲",
+    "sec_3_title": "Community contributors",
+    "sec_3_title_2": "Thanks",
+    "sec_3_list": [
+        {
+            "avatar": "https://github.com/0xOO1.png?size=64",
+            "name": "0xOO1",
+            "link": "https://github.com/0xOO1"
+        },
+        {
+            "avatar": "https://github.com/laziok.png?size=64",
+            "name": "laziok",
+            "link": "https://github.com/laziok"
+        },
+        {
+            "avatar": "https://github.com/blackorbird.png?size=64",
+            "name": "blackorbird",
+            "link": "https://github.com/blackorbird"
+        },
+        {
+            "avatar": "https://github.com/xiaozimo20.png?size=64",
+            "name": "xiaozimo20",
+            "link": "https://github.com/xiaozimo20"
+        },
+        {
+            "avatar": "https://github.com/TvTSaltedfish.png?size=64",
+            "name": "TvTSaltedfish",
+            "link": "https://github.com/TvTSaltedfish"
+        },
+        {
+            "avatar": "https://github.com/GGZDDR.png?size=64",
+            "name": "GGZDDR",
+            "link": "https://github.com/GGZDDR"
+        },
+        {
+            "avatar": "https://github.com/Jindom.png?size=64",
+            "name": "Jindom",
+            "link": "https://github.com/Jindom"
+        },
+        {
+            "avatar": "/static/image/father.jpg",
+            "name": "教父"
+        },
+        {
+            "avatar": "/static/image/lsh4ck.jpg",
+            "name": "lsh4ck"
+        },
+        {
+            "avatar": "/static/image/Cimoom.jpg",
+            "name": "Cimoom_曲云杰"
+        },
+        {
+            "avatar": "/static/image/Laffray.jpg",
+            "name": "Laffray"
+        },
+        {
+            "avatar": "/static/image/zoom.jpg",
+            "name": "元培 ZOOM 战队"
+        },
+        {
+            "avatar": "/static/image/61d.png",
+            "name": "f61d"
+        },
+        {
+            "avatar": "https://raw.githubusercontent.com/pwnthebox/front-show/main/assets/edi.png",
+            "name": "EDI 安全"
+        }
+    ],
+    "sec_4_title": "FAQ",
+    "sec_4_list": [
+        {"title": "Does ranking give anyone privileges?", "content": "A higher ranking on the scoreboard page does not give anyone privileges. We are all friends here and in the same team. We do encourage users to compete purely to improve their skills (within a reasonable range), but don't let us waste our energy fighting against ourselves. Because we are working together for a common goal. A badge is an honor, not a right. If you use this sign to show your sense of superiority, it will be deprived."},
+        {"title": "Can you explore the security risks of this website?", "content": "We allow users to explore PwnTheBox to search for security vulnerabilities, bugs, etc., provided they are not for illegal purposes. If you do find a security problem, we want you to submit a report. Users will not be punished for discovering and exploring security vulnerabilities, except they who lead the website to has a legal risk to attacking this site."},
+        {"title": "Account banned?", "content": "Users who are banned / suspended will remain so until the community member decides to cancel, it can be short to one day to permanent."},
+        {"title": "Comments and suggestions", "content": "This is also your website. You have riaght in its operation mode, content, policy, mission, articles, etc. If you have any suggestions, criticisms or good ideas that you think we should implement, please let us know! Although all users are equal, community members have a special responsibility to take charge of the site - that is, to make all of you better. In order for community members to do their job well, they must be listened to. But if community members tell you something you should or shouldn't do, you must listen to them. Generally speaking, users can control the website freely. They decide how the website works, what is on the website, etc. Our concern is to ensure that the website remains operational and available to all who want to learn and grow from this experience. We just want to see it run as successfully as possible."}
+    ]
+	"Scoreboard":"Scoreboard",
+	"Personal":"Personal",
+	"Total score ranking":"Total score ranking",
+	"Skills score ranking":"Skills score ranking",
+	"Team":"Team",
+	"Scores in Recent Week":"Scores in Recent Week",
+	"Today":"Today",
+	"Week":"Week",
+	"Month":"Month",
+	"CTF":"CTF",
+	"Challenges":"Challenges",
+	"Multiple Choice":"Multiple Choice",
+	"Keynote":"Keynotes",
+	"Tag":"Tag",
+	"Category":"Category",
+	"Difficulty":"Difficulty",
+	"Easy":"Easy",
+	"Normal":"Normal",
+	"Difficult":"Difficult",
+	"Extremely":"Extremely",
+	"Times":"Times",
+	"Pass":"Pass",
+	"Wiki":"Wiki",
+	"WriteUp":"WriteUp",
+	"Search":"Search",
+	"Author":"Author",
+	"Latest":"Latest",
+	"Next":"Next",
+	"Lists":"Lists",
+	"Skill Trees":"Skill Trees",
+	"Activity":"Activity",
+	"BBS":"BBS",
+	"Bulletin ":"Bulletin",
+	"About":"About",
+	"About_banner_1":"Join the community!",
+	"About_banner_2":"If you are interested in becoming a member of the PwnTheBox Community, the first step is not to submit an application or ask us directly. You can try to contribute to the project in many other ways.",
+	"About_block_1_title":"Share",
+	"About_block_1_text":"Share challenges and WriteUp",
+	"About_block_2_title":"Report",
+	"About_block_2_text":"Report Bugs and search for vulnerabilities.",
+	"About_block_3_title":"Built",
+	"About_block_3_text":"Construction peripheral services"
+	"About_banner_3":"Studying with Community!",
+	"About_banner_4":"Unlike many security challenge platforms, all users of the PwnTheBox Community can contribute and participate in development. We are an open community that encourages active participation, and we have established many ways in which people can participate.",
+	"Learn more!":"Learn more!",
+	"About_block_4_title":"Gathering knowledge",
+	"About_block_4_text":"We help people who ask wise questions in a friendly atmosphere to build PwnTheBox Community and promote Community development.",
+	"Support":"Support",
+	"Support_text_1":"Thank Sichuan Prism Cloud and the following contributors for their support to the operation of this website",
+	"Support_text_2":"Thanks to all the contributors of PwnTheBox Community",
+	"About_banner_5":"Build A Safer Cyberspace",
+	"About_banner_6":"The PwnTheBox Community is committed to promoting an open learning environment by providing 'Capture The Flag' and 'Attack and Defense' Platform. Learn more convenient, the Cyberspace more safer.",
+	"About_block_5_title":"Hobbyist",
+	"About_block_5_text":"How to learn cyber security from beginning and improve the cyber security skills of red team and blue team.",
+	"About_block_6_title":"Companies",
+	"About_block_6_text":"Competitive cyber security training improves employees' cyber security awareness and cyber security skills.",
+	"About_block_7_title":"Universities",
+	"About_block_7_text":"Support the practice of different types of cyber security courses, and Gamification makes learning interesting."
+	
+}
